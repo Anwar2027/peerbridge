@@ -619,6 +619,16 @@ img {
   font-weight: 800;
 }
 
+.team-why {
+  margin-top: 0.95rem;
+  padding-top: 0.95rem;
+  border-top: 1px solid var(--line);
+}
+
+.team-why strong {
+  color: var(--text);
+}
+
 .team-fact {
   margin-top: 1rem;
   padding-top: 1rem;
